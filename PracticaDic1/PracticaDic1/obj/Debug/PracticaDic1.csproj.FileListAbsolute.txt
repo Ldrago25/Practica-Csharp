@@ -1,0 +1,9 @@
+c:\users\ldrago\documents\visual studio 2015\Projects\PracticaDic1\PracticaDic1\bin\Debug\PracticaDic1.exe.config
+c:\users\ldrago\documents\visual studio 2015\Projects\PracticaDic1\PracticaDic1\obj\Debug\PracticaDic1.csprojResolveAssemblyReference.cache
+c:\users\ldrago\documents\visual studio 2015\Projects\PracticaDic1\PracticaDic1\bin\Debug\PracticaDic1.exe
+c:\users\ldrago\documents\visual studio 2015\Projects\PracticaDic1\PracticaDic1\bin\Debug\PracticaDic1.pdb
+c:\users\ldrago\documents\visual studio 2015\Projects\PracticaDic1\PracticaDic1\obj\Debug\PracticaDic1.exe
+c:\users\ldrago\documents\visual studio 2015\Projects\PracticaDic1\PracticaDic1\obj\Debug\PracticaDic1.pdb
+C:\Users\Ldrago\Desktop\Practica1_Brandon_Vargas_26566047\PracticaDic1\PracticaDic1\bin\Debug\PracticaDic1.exe.config
+C:\Users\Ldrago\Desktop\Practica1_Brandon_Vargas_26566047\PracticaDic1\PracticaDic1\obj\Debug\PracticaDic1.exe
+C:\Users\Ldrago\Desktop\Practica1_Brandon_Vargas_26566047\PracticaDic1\PracticaDic1\obj\Debug\PracticaDic1.pdb
